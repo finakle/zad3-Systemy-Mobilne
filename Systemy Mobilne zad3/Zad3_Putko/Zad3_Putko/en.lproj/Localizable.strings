@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Zad3_Putko
+
+  Created by student on 16/11/2021.
+  Copyright © 2021 pb. All rights reserved.
+*/
+
+"Information"="Information";
+"Message" = "The faculty is running %i programs on graduate and undergraduate level.";
+
+"image"="baner en";
